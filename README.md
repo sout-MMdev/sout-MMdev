@@ -9,7 +9,7 @@
 
 <!-- ---------- BANNER (onda animada gerada pelo capsule-render) ---------- -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:22D3EE&height=200&section=header&text=Maxuel%20Monteiro&fontSize=44&fontColor=E2E8F0&fontAlignY=34&desc=Desenvolvedor%20front-end&descAlignY=54&descSize=16&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:22D3EE&height=200&section=header&text=Maxuel%20Monteiro&fontSize=44&fontColor=E2E8F0&fontAlignY=34&desc=Desenvolvedor&descAlignY=54&descSize=18&animation=fadeIn"
   width="100%"
   alt="Maxuel Monteiro — Desenvolvedor."
 />
@@ -18,8 +18,8 @@
 
 <!-- ---------- TEXTO COM EFEITO DE DIGITAÇÃO ---------- -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=560&height=45&lines=React+%2B+TypeScript;Do+layout+ao+banco+de+dados;Interfaces+que+funcionam+no+detalhe"
-  alt="React + TypeScript · Do layout ao banco de dados · Interfaces que funcionam no detalhe"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=560&height=45&lines=JavaScript+%2B+TypeScript+%2B+React;Do+layout+ao+banco+de+dados;Em+forma%C3%A7%C3%A3o+Full+Stack"
+  alt="JavaScript + TypeScript + React · Do layout ao banco de dados · Em formação Full Stack"
 />
 
 <!-- ---------- CONTATO + CONTADOR DE VISITAS ---------- -->
