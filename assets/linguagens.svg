@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="356" viewBox="0 0 880 356" role="img" aria-label="Distribuicao de codigo nos meus projetos: React TSX 40,3%, CSS 34,9%, TypeScript 22,0%, SQL 2,5%, HTML e JavaScript 0,4%">
+
+  <!-- ============================================================
+       Paleta (mesma do perfil): grafite de fundo, ciano de destaque
+       ============================================================ -->
+  <defs>
+    <!-- brilho suave atras do titulo -->
+    <radialGradient id="brilho" cx="18%" cy="0%" r="80%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- cartao de fundo -->
+  <rect x="0.5" y="0.5" width="879" height="355" rx="14" fill="#0B1220" stroke="#1E293B"/>
+  <rect x="0.5" y="0.5" width="879" height="355" rx="14" fill="url(#brilho)"/>
+
+  <!-- ============================================================
+       Cabecalho
+       ============================================================ -->
+  <text x="32" y="48" font-family="Segoe UI, Ubuntu, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#22D3EE">
+    Distribuição de código nos meus projetos
+  </text>
+  <text x="32" y="72" font-family="Segoe UI, Ubuntu, Helvetica, sans-serif" font-size="13" fill="#64748B">
+    32.967 linhas medidas em 3 repositórios (dependências e arquivos gerados fora da conta)
+  </text>
+
+  <!-- linha divisoria -->
+  <rect x="32" y="90" width="816" height="1" fill="#1E293B"/>
+
+  <!-- ============================================================
+       Barras
+       Escala: a maior fatia (40,3%) ocupa a largura total de 570px.
+       Cada barra tem o width final ja no atributo, e o <animate>
+       so faz o crescimento — assim, se a animacao nao rodar,
+       o grafico continua correto.
+       ============================================================ -->
+
+  <!-- 1. React (.tsx) — 13.280 linhas -->
+  <text x="32" y="132" font-family="Segoe UI, Ubuntu, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#E2E8F0">React (.tsx)</text>
+  <rect x="190" y="119" width="570" height="16" rx="8" fill="#111C2E"/>
+  <rect x="190" y="119" width="570" height="16" rx="8" fill="#22D3EE">
+    <animate attributeName="width" from="0" to="570" dur="1.1s" begin="0s" fill="freeze"/>
+  </rect>
+  <text x="848" y="132" text-anchor="end" font-family="Segoe UI, Ubuntu, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#94A3B8">40,3%</text>
+
+  <!-- 2. CSS — 11.504 linhas -->
+  <text x="32" y="177" font-family="Segoe UI, Ubuntu, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#E2E8F0">CSS</text>
+  <rect x="190" y="164" width="570" height="16" rx="8" fill="#111C2E"/>
+  <rect x="190" y="164" width="494" height="16" rx="8" fill="#38BDF8">
+    <animate attributeName="width" from="0" to="494" dur="1.1s" begin="0.12s" fill="freeze"/>
+  </rect>
+  <text x="848" y="177" text-anchor="end" font-family="Segoe UI, Ubuntu, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#94A3B8">34,9%</text>
+
+  <!-- 3. TypeScript (.ts) — 7.244 linhas -->
+  <text x="32" y="222" font-family="Segoe UI, Ubuntu, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#E2E8F0">TypeScript (.ts)</text>
+  <rect x="190" y="209" width="570" height="16" rx="8" fill="#111C2E"/>
+  <rect x="190" y="209" width="311" height="16" rx="8" fill="#3B82F6">
+    <animate attributeName="width" from="0" to="311" dur="1.1s" begin="0.24s" fill="freeze"/>
+  </rect>
+  <text x="848" y="222" text-anchor="end" font-family="Segoe UI, Ubuntu, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#94A3B8">22,0%</text>
+
+  <!-- 4. SQL — 833 linhas -->
+  <text x="32" y="267" font-family="Segoe UI, Ubuntu, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#E2E8F0">SQL</text>
+  <rect x="190" y="254" width="570" height="16" rx="8" fill="#111C2E"/>
+  <rect x="190" y="254" width="35" height="16" rx="8" fill="#4F46E5">
+    <animate attributeName="width" from="0" to="35" dur="1.1s" begin="0.36s" fill="freeze"/>
+  </rect>
+  <text x="848" y="267" text-anchor="end" font-family="Segoe UI, Ubuntu, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#94A3B8">2,5%</text>
+
+  <!-- 5. HTML + JavaScript — 106 linhas -->
+  <text x="32" y="312" font-family="Segoe UI, Ubuntu, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#E2E8F0">HTML + JavaScript</text>
+  <rect x="190" y="299" width="570" height="16" rx="8" fill="#111C2E"/>
+  <rect x="190" y="299" width="10" height="16" rx="8" fill="#6366F1">
+    <animate attributeName="width" from="0" to="10" dur="1.1s" begin="0.48s" fill="freeze"/>
+  </rect>
+  <text x="848" y="312" text-anchor="end" font-family="Segoe UI, Ubuntu, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#94A3B8">0,4%</text>
+
+  <!-- rodape do cartao -->
+  <text x="32" y="340" font-family="Segoe UI, Ubuntu, Helvetica, sans-serif" font-size="11" fill="#475569">
+    Contagem por extensão de arquivo — .tsx separado de .ts para mostrar quanto do código é componente React.
+  </text>
+</svg>
