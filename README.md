@@ -39,16 +39,16 @@
 
 ## Sobre mim
 
-Construo aplicações web com **React** e **TypeScript** — de formulários multi-etapas a painéis
-administrativos — cuidando desde a interface até a integração com o banco de dados.
+Desenvolvedor com foco em **JavaScript**, em formação contínua em desenvolvimento web Full Stack.
+O que eu sei vem de construir — com atenção à organização e à estrutura do projeto.
 
-- **Trabalhando agora em** um monorepo React + TypeScript com versões desktop e mobile compartilhando
-  o mesmo núcleo de regras de negócio, e um CRM em React 19 conectado ao Supabase.
-- **Aprofundando** em Node.js, PostgreSQL e arquitetura de front-end.
-- **Cuido do detalhe**: dark mode por tokens de CSS, estados de carregamento e erro,
-  e código comentado em português para o próximo que abrir o arquivo — inclusive eu.
-- **Sou júnior e aprendo em público**: cada repositório aqui é um problema real que resolvi
-  do começo ao fim.
+- **Stack:** React, TypeScript e PostgreSQL (Supabase).
+- **Projetos próprios:** um relatório comercial que precisava rodar no desktop e no celular
+  virou um monorepo com núcleo compartilhado de tipos e regras de negócio; um CRM com autenticação
+  e controle de acesso por perfil, com as regras aplicadas no banco, não só na tela.
+- **Suporte e infraestrutura:** DNS, direcionamento de domínios, sistemas internos e treinamento
+  em plataformas de gestão — cheguei ao código pelo lado do suporte e construo pensando em quem
+  vai clicar.
 
 ---
 
