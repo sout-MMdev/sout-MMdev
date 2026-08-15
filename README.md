@@ -11,7 +11,7 @@
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:22D3EE&height=200&section=header&text=Maxuel%20Monteiro&fontSize=44&fontColor=E2E8F0&fontAlignY=34&desc=Desenvolvedor%20front-end&descAlignY=54&descSize=16&animation=fadeIn"
   width="100%"
-  alt="Maxuel Monteiro — Desenvolvedor front-end"
+  alt="Maxuel Monteiro — Desenvolvedor."
 />
 
 <div align="center">
