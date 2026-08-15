@@ -89,7 +89,7 @@ administrativos — cuidando desde a interface até a integração com o banco d
      imagem quebrada no perfil é pior do que card nenhum.
   Para atualizar: recontar as linhas e ajustar os valores dentro do SVG.
 -->
-<img src="assets/linguagens.svg" width="100%" alt="Distribuição de código: React (.tsx) 40,3%, CSS 34,9%, TypeScript (.ts) 22,0%, SQL 2,5%, HTML + JavaScript 0,4%" />
+<img src="https://raw.githubusercontent.com/sout-MMdev/sout-MMdev/main/assets/linguagens.svg" width="100%" alt="Distribuição de código: React (.tsx) 40,3%, CSS 34,9%, TypeScript (.ts) 22,0%, SQL 2,5%, HTML + JavaScript 0,4%" />
 
 </div>
 
