@@ -2,11 +2,11 @@
 
   <!-- Header Animado com Efeito de Digitação -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Maxuel+(sout-MMdev)+%F0%9F%91%8B;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80;HTML5+%7C+CSS3+%7C+JavaScript+%F0%9F%92%BB;Construindo+o+futuro+linha+por+linha+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=680&lines=Ol%C3%A1%2C+eu+sou+o+Maxuel+(sout-MMdev)+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%26+Mobile+%F0%9F%93%B1%F0%9F%92%BB;JavaScript+%7C+TypeScript+%7C+HTML5+%7C+CSS3+%E2%9A%A1;Solu%C3%A7%C3%B5es+modernas+com+c%C3%B3digo+limpo+e+IA+%F0%9F%A4%96%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Estudante de Desenvolvimento Web Full Stack | Apaixonado por transformar ideias em código e interfaces funcionais</strong>
+    <strong>Desenvolvedor em formação com foco em Web Full Stack & Mobile | Apaixonado por criar interfaces fluidas, arquitetura escalável e utilizar IA para acelerar soluções de alto impacto.</strong>
   </p>
 
   <!-- Badges de Contato e Redes -->
@@ -31,46 +31,46 @@
 ```javascript
 const soutMMdev = {
   nome: "Maxuel",
-  perfil: "Desenvolvedor Full Stack em formação",
-  curso: "Desenvolvimento Full Stack",
-  habilidadesAtuais: ["HTML5", "CSS3", "JavaScript", "Git", "GitHub"],
-  proximosPassos: ["TypeScript", "Node.js", "React", "Bancos de Dados"],
-  foco: "Evoluir constantemente através da prática e da resolução de problemas reais"
+  perfil: "Desenvolvedor Full Stack & Mobile",
+  focoAtual: ["Mobile & Web", "Arquiteturas Escaláveis", "Desenvolvimento acelerado com IA"],
+  habilidadesAtuais: ["HTML5 Semântico", "CSS3 / Design Responsivo", "JavaScript (ES6+)", "Git & GitHub"],
+  emEvolucao: ["TypeScript", "Node.js", "React & React Native / PWA", "APIs RESTful"],
+  filosofia: "Código limpo, foco na experiência do usuário (UX) e evolução contínua"
 };
 ```
 
-- 🎓 **Em formação:** Estudando intensamente desenvolvimento Full Stack.
-- 💻 **Conhecimentos consolidados:** Criação de páginas responsivas, estilização moderna e lógica com **JavaScript puro (ES6+)**, **HTML5** e **CSS3**.
-- 🚀 **Em aprendizado contínuo:** Me preparando para os próximos módulos de **TypeScript** e desenvolvimento Back-end com **Node.js**.
-- 🎯 **Objetivo:** Construir um portfólio sólido de aplicações completas e ingressar no mercado de desenvolvimento web.
+- 🎯 **Foco de Carreira:** Desenvolvimento **Web Full Stack & Mobile**, criando aplicações completas do front-end ao back-end.
+- 📱 **Abordagem Mobile:** Criação de experiências pensadas primeiro para telas pequenas (*Mobile-First*), PWAs e adaptação fluida de componentes de toque.
+- 💡 **Programação + Inteligência Artificial:** Uso ativo de ferramentas e agentes de IA para otimizar arquitetura, escrever testes robustos e acelerar entregas.
+- 🚀 **Próximos passos:** Aprofundando em **TypeScript**, **Node.js** e frameworks modernos para web e ecossistema mobile.
 
 ---
 
-### 🛠️ Minhas Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Ferramentas
 
-#### 🟢 Tecnologias que domino e pratico diariamente:
+#### 🟢 Tecnologias consolidadas no dia a dia:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="Tecnologias que domino" />
 </div>
 
 <br>
 
-#### 🟡 No meu radar e em aprendizado (Full Stack Roadmap):
+#### 🟡 No meu radar & Roadmap Full Stack + Mobile:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,postgres,react&theme=dark" alt="Em aprendizado" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,react,android,postgres,figma&theme=dark" alt="Em aprendizado" />
 </div>
 
 <br>
 
 <details>
-  <summary><b>📂 Ver lista detalhada de competências</b></summary>
+  <summary><b>📂 Ver divisão detalhada por categoria técnica</b></summary>
   <br>
 
-| Categoria | Tecnologias |
+| Categoria | Tecnologias e Habilidades |
 | :--- | :--- |
-| **Front-end (Atual)** | `HTML5 Semântico` `CSS3 (Flexbox/Grid)` `JavaScript (ES6+)` `Manipulação de DOM` |
-| **Back-end & Avançado (Em breve)** | `TypeScript` `Node.js` `Express` `APIs REST` |
-| **Controle de Versão & Ferramentas** | `Git` `GitHub` `VS Code` `Terminal / CLI` |
+| **Mobile & Front-end** | `Mobile First` `PWAs (Progressive Web Apps)` `JavaScript (ES6+)` `HTML5/CSS3` `React` `Interfaces Touch` |
+| **Back-end (Em evolução)** | `TypeScript` `Node.js` `Express` `APIs RESTful` `PostgreSQL` |
+| **Ferramentas & Qualidade** | `Git` `GitHub` `VS Code` `Testes Unitários` `Automações com IA` |
 
 </details>
 
@@ -94,32 +94,32 @@ const soutMMdev = {
 
 ---
 
-### 🚀 Meus Projetos e Exercícios de Estudo
+### 🚀 Projetos em Destaque
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">📝 Exercício de Formulário</h3>
+    <td width="55%">
+      <h3 align="center">📱 Formulário Comercial (Desktop + Mobile PWA)</h3>
       <p align="center">
-        Projeto prático com foco em estruturação semântica, acessibilidade e validação de dados com JavaScript, HTML5 e CSS3.
+        Sistema comercial completo desenvolvido com <b>programação moderna e auxílio de IA</b>. Possui arquitetura compartilhada (Monorepo) com duas interfaces: <b>Desktop</b> e <b>Mobile (PWA)</b> utilizando a mesma regra de negócio central, com <b>49 testes automatizados</b>, cálculo de rotas/reembolso e interface adaptada ao toque.
       </p>
       <p align="center">
-        <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
+        <code>TypeScript</code> <code>Mobile PWA</code> <code>React / Vite</code> <code>Arquitetura Modular</code> <code>IA</code>
       </p>
       <p align="center">
-        <a href="https://github.com/sout-MMdev"><b>Ver no GitHub ↗</b></a>
+        <a href="https://github.com/sout-MMdev/formulario_comercial"><b>Acessar Repositório no GitHub ↗</b></a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">⚡ Próximo Projeto Full Stack</h3>
+    <td width="45%">
+      <h3 align="center">⚡ Próximo Projeto Mobile Full Stack</h3>
       <p align="center">
-        Aplicação integrando interface dinâmica com backend em Node.js e TypeScript.
+        Aplicação mobile integrando banco de dados na nuvem, autenticação e backend em Node.js / TypeScript.
       </p>
       <p align="center">
-        <code>JavaScript</code> <code>TypeScript</code> <code>Node.js</code>
+        <code>TypeScript</code> <code>Node.js</code> <code>Mobile</code> <code>APIs</code>
       </p>
       <p align="center">
-        <b>Em desenvolvimento 🚧</b>
+        <b>Em desenvolvimento contínuo 🚧</b>
       </p>
     </td>
   </tr>
@@ -127,10 +127,10 @@ const soutMMdev = {
 
 ---
 
-### 🤝 Vamos nos conectar?
+### 🤝 Conecte-se Comigo!
 
 <div align="center">
-  <p>Estou sempre aberto a networking, dicas de estudo e oportunidades na área de desenvolvimento!</p>
+  <p>Estou sempre disponível para trocar ideias sobre desenvolvimento Web, Mobile, boas práticas e novas tecnologias!</p>
 
   <a href="https://github.com/sout-MMdev" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="28" alt="GitHub">
