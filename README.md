@@ -45,9 +45,9 @@ const maxuel = {
 
 #### 🟢 No dia a dia
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres,supabase,css&theme=dark" alt="TypeScript, JavaScript, React, Node.js, PostgreSQL, Supabase, HTML e CSS" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres,supabase,css&theme=dark" alt="TypeScript, React, Node.js, PostgreSQL, Supabase,CSS" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=deno,git,github,githubactions,docker,vscode&theme=dark" alt="Deno, Vite, Git, GitHub, GitHub Actions, Docker, Vercel e VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker" alt="Git, GitHub, Docker" />
 </div>
 
 #### 🟡 Estudando
